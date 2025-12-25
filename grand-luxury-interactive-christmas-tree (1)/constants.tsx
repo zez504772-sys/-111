@@ -1,0 +1,29 @@
+
+export const COLORS = {
+  EMERALD_DEEP: '#043927',
+  EMERALD_LIGHT: '#0a5c3e',
+  GOLD_BRIGHT: '#FFD700',
+  GOLD_LUXE: '#D4AF37',
+  RUBY: '#9b111e',
+  SAPPHIRE: '#0f52ba',
+  WHITE_GLOW: '#ffffff',
+  DARK_BG: '#020f0a'
+};
+
+export const TREE_CONFIG = {
+  HEIGHT: 12,
+  RADIUS: 5,
+  FOLIAGE_COUNT: 80000,
+  BALL_COUNT: 400,
+  GIFT_COUNT: 80,
+  LIGHT_COUNT: 200,
+  CHAOS_RADIUS: 25,
+};
+
+export const ORNAMENT_COLORS = [
+  COLORS.GOLD_LUXE,
+  COLORS.RUBY,
+  COLORS.SAPPHIRE,
+  COLORS.EMERALD_LIGHT,
+  '#f0f0f0'
+];
